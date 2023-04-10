@@ -1,0 +1,23 @@
+@charset "UTF-8";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: green;
+    color: white;
+    padding: 40px;
+}
+header h2 {
+    font-family: 'Indie Flower', cursive;
+     margin: -10px;
+     color: white;
+     text-align: left;
+     font-size: 1.2em;
+     text-transform: uppercase; }
+main {
+    
+}
+.b1 {
+   
+}
